@@ -2,7 +2,7 @@
 
 This folder contains different projects related to Data Science and Analysis.
 
-## Welcome to Data Science Playground! 
+## Welcome to Data Science/ Analysis Playground! 
 
 Inside this folder, you'll find a collection of fascinating Data Science and Analysis projects for you to explore.
 
